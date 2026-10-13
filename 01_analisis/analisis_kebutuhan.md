@@ -32,7 +32,7 @@ Sistem Informasi Akademik berbasis E-Learning mencakup pengelolaan akun pengguna
 | Pengguna      | Informasi                                                          |
 | ------------- | ------------------------------------------------------------------ |
 | Mahasiswa     | NIM, nama lengkap, email, kata sandi, dan foto profil (opsional).  |
-| Dosen         | NIP, nama lengkap, email, kata sandi, dan foto profil (opsional).  |
+| Dosen         | NIDN, nama lengkap, email, kata sandi, dan foto profil (opsional). |
 | Administrator | Username, email, kata sandi, dan data akun pengguna yang dikelola. |
 
 ### Data Pendukung Pembelajaran
