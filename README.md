@@ -1,13 +1,11 @@
 # Sistem Informasi Akademik (E-Learning)
 
-Sistem Informasi Akademik (E-Learning) merupakan platform pembelajaran digital yang mendukung pengelolaan materi perkuliahan, tugas, penilaian, serta komunikasi antara dosen dan mahasiswa.
+[Tujuan Sistem](#tujuan-sistem) · [Hak Akses Pengguna](#hak-akses-pengguna) · [Struktur Folder](#struktur-folder) · [Identitas Kelompok](#identitas-kelompok)
 
-Repository ini digunakan untuk menyimpan dan mengelola dokumentasi sistem dengan memanfaatkan layanan _cloud computing_ melalui GitHub.
+Sistem Informasi Akademik (E-Learning) merupakan platform pembelajaran digital yang mendukung pengelolaan materi perkuliahan, tugas, penilaian, serta komunikasi antara dosen dan mahasiswa. Repository ini digunakan untuk menyimpan dan mengelola dokumentasi sistem dengan memanfaatkan layanan _cloud computing_ melalui GitHub.
 
 > [!NOTE]
 > Repository ini hanya berisi **dokumentasi sistem**, bukan kode sumber atau aplikasi E-Learning.
-
-**Navigasi:** [Tujuan Sistem](#tujuan-sistem) · [Pengguna Sistem](#pengguna-sistem) · [Struktur Folder](#struktur-folder) · [Identitas Kelompok](#identitas-kelompok)
 
 ## Tujuan Sistem
 
@@ -28,13 +26,12 @@ Repository ini digunakan untuk menyimpan dan mengelola dokumentasi sistem dengan
 
 ## Struktur Folder
 
-| File/Folder       | Deskripsi                                                             |
-| ----------------- | --------------------------------------------------------------------- |
-| `README.md`       | Informasi umum sistem, tujuan, pengguna, dan identitas kelompok.      |
-| `01-analisis/`    | Analisis kebutuhan dan tujuan Sistem Informasi Akademik (E-Learning). |
-| `02-perancangan/` | Rancangan fitur, alur proses, dan hak akses pengguna sistem.          |
-| `03-database/`    | Analisis kebutuhan database, model data, dan manfaat penggunaannya.   |
-| `04-panduan/`     | Panduan penggunaan GitHub dan pengelolaan repository.                 |
+| File/Folder       | Deskripsi                                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| `README.md`       | Informasi umum sistem, tujuan, pengguna, dan identitas kelompok.                                |
+| `01_analisis/`    | Analisis kebutuhan dan tujuan Sistem Informasi Akademik (E-Learning).                           |
+| `02_perancangan/` | Rancangan fitur, alur proses, dan hak akses pengguna sistem serta rancangan penggunaan database |
+| `03_panduan/`     | Panduan penggunaan GitHub dan pengelolaan repository.                                           |
 
 ## Identitas Kelompok
 
