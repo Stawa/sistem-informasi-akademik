@@ -2,40 +2,40 @@
 
 [Tujuan Sistem](#tujuan-sistem) · [Hak Akses Pengguna](#hak-akses-pengguna) · [Struktur Folder](#struktur-folder) · [Identitas Kelompok](#identitas-kelompok)
 
-Sistem Informasi Akademik (E-Learning) merupakan platform pembelajaran digital yang mendukung pengelolaan materi perkuliahan, tugas, penilaian, serta komunikasi antara dosen dan mahasiswa. Repository ini digunakan untuk menyimpan dan mengelola dokumentasi sistem dengan memanfaatkan layanan _cloud computing_ melalui GitHub.
+Sistem Informasi Akademik (E-Learning) merupakan platform pembelajaran digital yang mendukung pengelolaan kelas, materi perkuliahan, tugas, kuis, penilaian, serta komunikasi antara dosen dan mahasiswa. Repository ini digunakan untuk menyimpan dan mengelola dokumentasi perancangan sistem melalui GitHub sebagai layanan berbasis _cloud computing_.
 
 > [!NOTE]
 > Repository ini hanya berisi **dokumentasi sistem**, bukan kode sumber atau aplikasi E-Learning.
 
 ## Tujuan Sistem
 
-| No. | Tujuan                                                                            |
-| :-: | --------------------------------------------------------------------------------- |
-|  1  | Mempermudah pengelolaan materi pembelajaran, tugas, dan nilai.                    |
-|  2  | Memudahkan peserta didik mengakses materi dan informasi akademik.                 |
-|  3  | Mendukung komunikasi dan kegiatan pembelajaran antara pengajar dan peserta didik. |
-|  4  | Menyediakan informasi akademik yang terorganisasi dan mudah diperbarui.           |
+| No. | Tujuan                                                                      |
+| :-: | --------------------------------------------------------------------------- |
+|  1  | Mempermudah pengelolaan kelas, materi pembelajaran, tugas, dan nilai.       |
+|  2  | Memudahkan mahasiswa mengakses materi dan informasi pembelajaran.           |
+|  3  | Mendukung komunikasi dan kegiatan pembelajaran antara dosen dan mahasiswa.  |
+|  4  | Menyediakan informasi pembelajaran yang terorganisasi dan mudah diperbarui. |
 
 ## Hak Akses Pengguna
 
-| Pengguna      | Peran dan Hak Akses                                                       |
-| ------------- | ------------------------------------------------------------------------- |
-| Administrator | Mengelola akun pengguna, kelas, dan data sistem.                          |
-| Pengajar      | Mengunggah materi, memberikan tugas, dan mengelola penilaian.             |
-| Peserta Didik | Mengakses materi, mengumpulkan tugas, dan melihat nilai serta pengumuman. |
+| Pengguna      | Peran dan Hak Akses                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| Administrator | Mengelola akun pengguna dan memantau aktivitas sistem.                                                 |
+| Dosen         | Membuat kelas, mengunggah materi, memberikan tugas dan kuis, serta mengelola penilaian.                |
+| Mahasiswa     | Bergabung ke kelas, mengakses materi, mengumpulkan tugas dan kuis, serta melihat nilai dan pengumuman. |
 
 ## Struktur Folder
 
-| File/Folder       | Deskripsi                                                                                       |
-| ----------------- | ----------------------------------------------------------------------------------------------- |
-| `README.md`       | Informasi umum sistem, tujuan, pengguna, dan identitas kelompok.                                |
-| `01_analisis/`    | Analisis kebutuhan dan tujuan Sistem Informasi Akademik (E-Learning).                           |
-| `02_perancangan/` | Rancangan fitur, alur proses, dan hak akses pengguna sistem serta rancangan penggunaan database |
-| `03_panduan/`     | Panduan penggunaan GitHub dan pengelolaan repository.                                           |
+| File/Folder       | Deskripsi                                                                  |
+| ----------------- | -------------------------------------------------------------------------- |
+| `README.md`       | Informasi umum sistem, tujuan, hak akses pengguna, dan identitas kelompok. |
+| `01_analisis/`    | Dokumentasi analisis kebutuhan sistem E-Learning.                          |
+| `02_perancangan/` | Dokumentasi rancangan sistem dan database.                                 |
+| `03_panduan/`     | Panduan penggunaan sistem E-Learning.                                      |
 
 ## Identitas Kelompok
 
-**Kelas:** `1B`
+**Kelas:** `1B`  
 **Dosen Pengampu:** Dr. Putu Desiana Wulaning Ayu, S.T., M.T.
 
 | Nama Anggota                    | NIM        |
